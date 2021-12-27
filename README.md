@@ -30,7 +30,7 @@ Missing Item
 # Description of Variables
 The dataset contains 1525 abservations of 10 variables:
 
-unit_id: id of record
+ unit_id:id of record
 
 golden: value FALSE
 
@@ -60,7 +60,7 @@ policies_violated_gold: value NA
 
 ➢ Model Evaluation
 
-review: review detail
+➢ review: review detail
 
 # Tools:
 # NLTK:
