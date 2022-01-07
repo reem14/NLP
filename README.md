@@ -110,3 +110,7 @@ annotations or hand tagging of documents because it uses unsupervised models.
 # Communication:
 The slides will be provided here, feel free to any pull requests besides details are 
 provided at the readme of the project
+
+# Conculusion 
+We have noticed from the above the low service in crowded places and the frequent inconvenience of customers so it is necessary to take into account 
+the negative comments and develop them and consider them, from this point of view must take into account the project Of Riyadh Metro, which will open soon where it is considered one of the most important projects for public transport in Riyadh city, it is necessary to take into account the locations of restaurants and the number of employees in them and work to improve the service in them and take into account the opinions of customers.
